@@ -1,0 +1,19 @@
+.Username {
+    width: 100%;
+}
+.Username h3{
+    width: 100%;
+    background: #ff923a;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+    color: #ffffff;
+}
+.Username p{
+    width: 100%;
+    background: #0a0a0a;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+    color: #ffb632;
+}
